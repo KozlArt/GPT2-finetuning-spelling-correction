@@ -1,4 +1,3 @@
-# Запуск
 ## Датасет и веса модели
 Датасет не изменялся. Файлы доступны по [ссылке](https://drive.google.com/drive/folders/1swt_OPnyGAC5p3pjCbUX3PHb_hr1euqd?usp=sharing).
 ## Обучение
